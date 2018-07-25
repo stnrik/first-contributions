@@ -9656,3 +9656,4 @@
 - [Adigun Adefisola](https://github.com/fifirulez)
 - [Denzel Lee](https://github.com/denzeltl)
 - [Ian Rodney](https://github.com/ijrsvt)
+- [Vetle] (https://github.com/stnrik)
